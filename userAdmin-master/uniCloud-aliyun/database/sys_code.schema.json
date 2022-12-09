@@ -1,0 +1,21 @@
+{
+	"bsonType": "object",
+	"required": [],
+	"permission": {
+		"read": false,
+		"create": false,
+		"update": false,
+		"delete": false
+	},
+	"properties": {
+		"_id": {
+			"description": "ID，系统自动生成"
+		},
+		"code_name": {
+			"description": "代码名"
+		},
+		"code_value": {
+			"description": "代码值"
+		}
+	}
+}
