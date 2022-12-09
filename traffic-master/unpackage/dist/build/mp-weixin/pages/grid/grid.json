@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "夜行无忧",
+  "usingComponents": {
+    "uni-swiper-dot": "/uni_modules/uni-swiper-dot/components/uni-swiper-dot/uni-swiper-dot",
+    "uni-section": "/uni_modules/uni-section/components/uni-section/uni-section",
+    "status-bar": "/uni_modules/uni-nav-bar/components/uni-nav-bar/uni-status-bar"
+  }
+}

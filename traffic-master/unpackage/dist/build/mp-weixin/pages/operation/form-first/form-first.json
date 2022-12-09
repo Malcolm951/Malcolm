@@ -1,0 +1,13 @@
+{
+  "navigationBarTitleText": "事故处理",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u--form": "/uni_modules/uview-ui/components/u--form/u--form",
+    "uni-section": "/uni_modules/uni-section/components/uni-section/uni-section",
+    "u-form-item": "/uni_modules/uview-ui/components/u-form-item/u-form-item",
+    "u--input": "/uni_modules/uview-ui/components/u--input/u--input",
+    "uni-data-checkbox": "/uni_modules/uni-data-checkbox/components/uni-data-checkbox/uni-data-checkbox",
+    "u--textarea": "/uni_modules/uview-ui/components/u--textarea/u--textarea",
+    "u-upload": "/uni_modules/uview-ui/components/u-upload/u-upload"
+  }
+}
